@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36870951082",
+    "firebase_url": "https://sloticamobile.firebaseio.com",
+    "project_id": "sloticamobile",
+    "storage_bucket": "sloticamobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36870951082:android:1e2216ac790bb73e",
+        "android_client_info": {
+          "package_name": "com.crown.mobile.sloticamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36870951082-lu00vm07h4ngh9iqdq94987qqi9kvspl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crown.mobile.sloticamobile",
+            "certificate_hash": "b1a93c94a5258d31af17708902c83b4577993ba3"
+          }
+        },
+        {
+          "client_id": "36870951082-unapr2596tcas6q8lbngpfchjqkckuj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWV6W2dZkN7JdxNW3M_uxEb8t40rKCAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36870951082-unapr2596tcas6q8lbngpfchjqkckuj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

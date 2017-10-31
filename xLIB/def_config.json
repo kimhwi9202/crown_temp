@@ -1,0 +1,34 @@
+{
+	"Server": [{
+		"ServerOn": "1", 
+		"DevServerIP": "0.0.0.0", 
+		"DevServerPort": "0", 
+		"DevBundleURL": "" 
+		"RealServerIP": "0.0.0.0", 
+		"RealServerPort": "0", 
+		"RealBundleURL": "" 
+	},
+	{
+		"ServerOn": "1", 
+		"DevServerIP": "0.0.0.0", 
+		"DevServerPORT": "0", 
+		"DevBundleURL": "" 
+		"RealServerIP": "0.0.0.0", 
+		"RealServerPORT": "0", 
+		"RealBundleURL": "" 
+	}],
+	"Version": [{
+		"Major": 1, 
+		"Minor": 0, 
+		"Revision": 0 
+	},
+	{
+		"Major": 1, 
+		"Minor": 0, 
+		"Revision": 0 
+	}],
+	"Param1": "", 
+	"Param2": "", 
+	"Param3": "", 
+	"Param4": "" 
+}

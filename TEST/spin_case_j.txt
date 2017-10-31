@@ -1,0 +1,57 @@
+{
+	"success": true,
+	"cmd": "spin",
+	"data": {
+		"payouts": {
+			"accumulateSum": 0,
+			"isJackpot": true,
+			"multipleWin": 830,
+			"isBigWin": false,
+			"totalPayout": 4150000,
+			"spins": [
+				{
+					"isNormal": true,
+					"payLines": [
+						{
+							"isJackpot": true,
+							"payout": 4150000,
+							"line": 3,
+							"matches": 5
+						}
+					],
+					"reel": [
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"M0",
+						"N0",
+						"M0",
+						"N0",
+						"M0",
+						"N0",
+						"L2"
+					],
+					"totalPayout": 4150000,
+					"freeSpinCount": 0
+				}
+			],
+			"lineBet": 1000,
+			"isMegaWin": false
+		},
+		"level_up_spins": 0,
+		"balance": 96954778964,
+		"levelPercent": 38,
+		"gameLevelPercent": 14,
+		"winID": 53172,
+		"jackpotPool": 1000000000,
+		"freeSpinKey": null,
+		"level": 122,
+		"gameLevel": 41,
+		"level_up_bonus": 0
+	}
+}

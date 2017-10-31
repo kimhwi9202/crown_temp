@@ -1,0 +1,337 @@
+{
+	"success": true,
+	"cmd": "spin",
+	"data": {
+		"payouts": {
+			"accumulateSum": 0,
+			"isJackpot": false,
+			"multipleWin": 28,
+			"isBigWin": true,
+			"totalPayout": 142000,
+			"spins": [
+				{
+					"isNormal": true,
+					"payLines": [
+						{
+							"isJackpot": false,
+							"payout": 30000,
+							"line": 2,
+							"matches": 5
+						},
+						{
+							"isJackpot": false,
+							"payout": 5000,
+							"line": -1,
+							"matches": 1
+						}
+					],
+					"reel": [
+						"L0",
+						"N0",
+						"L1",
+						"L0",
+						"N0",
+						"L2",
+						"S1",
+						"N0",
+						"L1",
+						"L0",
+						"N0",
+						"L2",
+						"L0",
+						"N0",
+						"L1"
+					],
+					"totalPayout": 35000,
+					"freeSpinCount": 7
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"L1",
+						"N0",
+						"L2",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"L1",
+						"N0",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"M0",
+						"N0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [
+						{
+							"isJackpot": false,
+							"payout": 100000,
+							"line": 0,
+							"matches": 3
+						}
+					],
+					"reel": [
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"L2",
+						"N0",
+						"N0",
+						"L1",
+						"N0"
+					],
+					"totalPayout": 100000,
+					"freeSpinCount": 7
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"N0",
+						"L0",
+						"N0",
+						"M0",
+						"N0",
+						"L1",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"M0",
+						"N0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [
+						{
+							"isJackpot": false,
+							"payout": 5000,
+							"line": -1,
+							"matches": 1
+						}
+					],
+					"reel": [
+						"N0",
+						"L1",
+						"N0",
+						"N0",
+						"L0",
+						"N0",
+						"S1",
+						"N0",
+						"L1",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"L1",
+						"N0"
+					],
+					"totalPayout": 5000,
+					"freeSpinCount": 7
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"N0",
+						"M0",
+						"N0",
+						"M0",
+						"N0",
+						"L0",
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"M0",
+						"N0",
+						"L0",
+						"N0",
+						"L1"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"M0",
+						"N0",
+						"L0",
+						"N0",
+						"L2",
+						"N0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"L0",
+						"N0",
+						"L1",
+						"N0",
+						"L2",
+						"N0",
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"L0",
+						"L2",
+						"N0",
+						"M0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"N0",
+						"M0",
+						"N0",
+						"N0",
+						"L0",
+						"N0",
+						"M0",
+						"N0",
+						"L1",
+						"N0",
+						"L2",
+						"N0",
+						"N0",
+						"L0",
+						"N0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [
+						{
+							"isJackpot": false,
+							"payout": 2000,
+							"line": 3,
+							"matches": 3
+						}
+					],
+					"reel": [
+						"L1",
+						"N0",
+						"L0",
+						"N0",
+						"L2",
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"L2",
+						"N0",
+						"L1",
+						"N0",
+						"L2",
+						"N0"
+					],
+					"totalPayout": 2000,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"L1",
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"N0",
+						"L1",
+						"N0",
+						"N0",
+						"L2",
+						"N0",
+						"N0",
+						"L0",
+						"N0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				},
+				{
+					"isNormal": false,
+					"payLines": [],
+					"reel": [
+						"M0",
+						"N0",
+						"L1",
+						"N0",
+						"L0",
+						"N0",
+						"N0",
+						"L0",
+						"N0",
+						"M0",
+						"N0",
+						"L2",
+						"N0",
+						"L0",
+						"N0"
+					],
+					"totalPayout": 0,
+					"freeSpinCount": 0
+				}
+			],
+			"lineBet": 1000,
+			"isMegaWin": false
+		},
+		"level_up_spins": 0,
+		"balance": 96928894901,
+		"levelPercent": 37,
+		"gameLevelPercent": 2,
+		"winID": 53162,
+		"jackpotPool": 1000015300,
+		"freeSpinKey": "1536764736337487:940",
+		"level": 122,
+		"gameLevel": 31,
+		"level_up_bonus": 0
+	}
+}
